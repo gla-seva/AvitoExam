@@ -1,6 +1,6 @@
 # Avito Exam
 
-Для просмотра меню введите `python cli.py menu`
+Для просмотра меню введите `python cli.py menu`.    
 Для заказа пиццы Маргарита введите `python cli.py order margherita --delivery` используйте ключ `--delivery` для доставки на дом. Для самовывоза не указывайте ключ.
 
 Для выполнения тестов и замера покрытия выполните `python -m pytest --cov .`
